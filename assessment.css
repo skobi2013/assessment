@@ -1,0 +1,25 @@
+body {
+  background-color: #04a6eb;
+  color: #fdffff;
+  width: 500px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+button {
+  padding: 5px 10px;
+  color: white;
+  background-color: goldenrod;
+  border-color: lightgrey;
+  border-style: solid;
+}
+
+input {
+  height: 30px;
+  color: darkblue;
+  text-decoration-thickness: ;
+}
+
+div {
+  color: rgb(45, 15, 241);
+}
